@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: continual-rl
+Version: 1.0
+Summary: Continual reinforcement learning baselines and standard experiments.
+Author: Sam Powers
+Author-email: snpowers@cs.cmu.edu
+License-File: LICENSE

@@ -1,0 +1,11 @@
+setuptools==59.5.0
+uuid
+numpy
+tensorboard
+torch-ac
+gym[atari]<=0.25.2
+atari-py==0.2.5
+moviepy
+dotmap
+psutil
+opencv-python
